@@ -1,6 +1,6 @@
 === RainyShots ===
 Contributors: rainypixels
-Donate link: http://rainypixels.com/writings/journal/rainyshots-a-dribbble-plugin/
+Donate link: http://rainypixels.com/words/rainyshots-a-dribbble-plugin/
 Tags: dribble, template tag, designer, developer, social media
 Requires at least: 2.9
 Tested up to: 3.1
@@ -21,7 +21,7 @@ The plugin adds an admin screen under Settings > RainyShots that provides a few 
 * Returned shots variable is cached for a day by default; this cache duration may be updated in admin settings
 * You can manually reset the cache through the admin at any time. This is useful if you post a shot and want it to immediately show up in your template. 
 
-Read more about it on [my blog](http://rainypixels.com/writings/journal/rainyshots-a-dribbble-plugin/).
+Read more about it on [my blog](http://rainypixels.com/words/rainyshots-a-dribbble-plugin/).
 
 
 == Installation ==
